@@ -8,7 +8,7 @@ t.color((255,155,192),"pink")
 t.setup(840,500)
 t.speed(10)
 
-#鼻子  --test
+#鼻子  --test test2
 t.pu()
 t.goto(-100,100)
 t.pd()
